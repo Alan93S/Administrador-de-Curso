@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "CURSO HTML FERNANDO HERRERA",
+        "state": true,
+        "price": 70000,
+        "duration": "49 Horas",
+        "description": "Aprende desarrollo web. Acceso libre y sin costo a las primeras clases de todos los cursos. Conviértete en web developer. Aprende HTML, CSS, React, Vue, Angular y más.",
+        "quotas": 10,
+        "inscribed": 0,
+        "img": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
+    },
+    {
+        "id": 2,
+        "name": "CURSO HTML DIEGO VALDIVIA",
+        "state": true,
+        "price": 75000,
+        "duration": "54 Horas",
+        "description": "Aprende desarrollo web. Acceso libre y sin costo a las primeras clases de todos los cursos. Conviértete en web developer. Aprende HTML, CSS, React, Vue, Angular y más.",
+        "quotas": 15,
+        "inscribed": 3,
+        "img": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
+    },
+    {
+        "id": 3,
+        "name": "CURSO CSS FERNANDO HERRERA",
+        "state": true,
+        "price": 45000,
+        "duration": "120 Horas",
+        "description": "Aprende desarrollo web. Acceso libre y sin costo a las primeras clases de todos los cursos. Conviértete en web developer. Aprende HTML, CSS, React, Vue, Angular y más.",
+        "quotas": 20,
+        "inscribed": 7,
+        "img": "https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"
+    },
+    {
+        "id": 4,
+        "name": "CURSO CSS OSCAR ROJAS",
+        "state": true,
+        "price": 70000,
+        "duration": "121 Horas",
+        "description": "Aprende desarrollo web. Acceso libre y sin costo a las primeras clases de todos los cursos. Conviértete en web developer. Aprende HTML, CSS, React, Vue, Angular y más.",
+        "quotas": 10,
+        "inscribed": 12,
+        "img": "https://lineadecodigo.com/wp-content/uploads/2014/04/css.png"
+    },
+    {
+        "id": 5,
+        "name": "CURSO SASS JON SNOW",
+        "state": true,
+        "price": 20000,
+        "duration": "29 Horas",
+        "description": "Aprende desarrollo web. Acceso libre y sin costo a las primeras clases de todos los cursos. Conviértete en web developer. Aprende HTML, CSS, React, Vue, Angular y más.",
+        "quotas": 10,
+        "inscribed": 4,
+        "img": "https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"
+    },
+    {
+        "id": 6,
+        "name": "CURSO SASS SAM TARLY",
+        "state": true,
+        "price": 20000,
+        "duration": "29 Horas",
+        "description": "Aprende desarrollo web. Acceso libre y sin costo a las primeras clases de todos los cursos. Conviértete en web developer. Aprende HTML, CSS, React, Vue, Angular y más.",
+        "quotas": 10,
+        "inscribed": 9,
+        "img": "https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"
+    },
+    {
+        "id": 7,
+        "name": "CURSO SASS SAM TARLY",
+        "state": true,
+        "price": 20000,
+        "duration": "29 Horas",
+        "description": "Aprende desarrollo web. Acceso libre y sin costo a las primeras clases de todos los cursos. Conviértete en web developer. Aprende HTML, CSS, React, Vue, Angular y más.",
+        "quotas": 10,
+        "inscribed": 0,
+        "img": "https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"
+    },
+    {
+        "id": 8,
+        "name": "CURSO VUE OSCAR ROJAS",
+        "state": true,
+        "price": 10500,
+        "duration": "99 Horas",
+        "description": "Aprende desarrollo web. Acceso libre y sin costo a las primeras clases de todos los cursos. Conviértete en web developer. Aprende HTML, CSS, React, Vue, Angular y más.",
+        "quotas": 10,
+        "inscribed": 0,
+        "img": "https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"
+    },
+    {
+        "id": 9,
+        "name": "CURSO VUE FERNANDO HERRERA",
+        "state": true,
+        "price": 15000,
+        "duration": "999 Horas",
+        "description": "Aprende desarrollo web. Acceso libre y sin costo a las primeras clases de todos los cursos. Conviértete en web developer. Aprende HTML, CSS, React, Vue, Angular y más.",
+        "quotas": 10,
+        "inscribed": 0,
+        "img": "https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"
+    }
+]
